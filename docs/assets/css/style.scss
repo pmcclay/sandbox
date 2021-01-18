@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 #main-content {
-  float: right;
-  width: 690px;
+  float: none;
+  width: 100%;
 }
